@@ -1,5 +1,5 @@
 ---
-title: "用 Go 语言新特性简化代码"
+title: "New Go Features That Simplify Code"
 ---
 
 
